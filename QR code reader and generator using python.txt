@@ -1,0 +1,10 @@
+This project is created using Python Programming Language.
+it involves QR code reading and creating
+to create or to generate i've imported pyqrcode
+and created a variable  with the help of create keyword
+and then creating  a png file.
+to read imo pyzbar and decode
+from pil import Image
+create a var and with the help of open keyword assign the png file name which needs t
+be read and the decode it .
+Thank You 
